@@ -26,5 +26,5 @@ function BoardMember(name,homeState,training)
   }
 }
 
-// let poliahed = new  BoardMember(Mr. Polished, New York,law);
-// polished.sayHi();
+let poliahed = new  BoardMember(Mr. Polished, New York,law);
+polished.sayHi();
